@@ -29,6 +29,13 @@
   <img src="https://github-profile-trophy.vercel.app/?username=O-Anuj&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Anuj Keshri's GitHub Trophies" />
 </p>
 
+<a href="https://twitter.com/AakarshitSriva3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+<div align="center">
+     <a href="https://www.linkedin.com/in/aakarshit-srivastava-b8252922a"><img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"></a>
+    <h1>🧠Skills Set 🦾🤖</h1>
+    <h4>Below are several key technologies 🛰 I've utilized or been involved with.👨‍💻📈</h4>
+</div>
 
 ## 🛠️ Languages & Tools
 
@@ -57,13 +64,22 @@
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/anuj-keshri-6346442a7/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://wa.me/918874308831" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WhatsApp.svg" alt="WhatsApp" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:anujkeshri449@gamil.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://o-portfolio-theta.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
+<a href="https://twitter.com/AakarshitSriva3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+
+  [![](https://visitcount.itsvg.in/api?id=ArkS0001&label=Visitors&icon=0&pretty=true)]()
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=true&descAlign=5"/>
+</p>
 </picture>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+<div style="display: flex; align-items: flex-start; justify-content: space-between; height: 100vh;">
+    <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="100" style="align-self: flex-start;">
+    <img src="https://github.com/user-attachments/assets/80d9b131-ebe5-428f-98d5-f1c136bd59f6" width="300" height="500">
+    <img src="https://github.com/user-attachments/assets/1ac6f68b-ee08-42a5-81c0-ba8efe446025" width="300" height="500">
 </div>
-

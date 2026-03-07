@@ -1,3 +1,10 @@
+<div align="left">
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10+Charted&duration=900&pause=1&color=106FF7&random=false&width=435&lines=Anuj+keshri;An..j-K" alt="Typing SVG" /></a>
+    </div>
+    <div align="center">
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jersey+25+&weight=500&size=25&pause=700&random=false&width=435&lines=Hi+%F0%9F%91%8B+I'm+Anuj+Keshri;Full+Stack+Developer+;Software+Developer;Web+Development;QA+Manual+Testing" alt="Typing SVG" /></a>
+    </div>
+
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Anuj Keshri</h1>
 <h3 align="center">Full Stack Developer</h3>
 

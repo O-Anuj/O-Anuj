@@ -6,6 +6,9 @@
     </div>
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Anuj Keshri</h1>
+
+<a href="https://twitter.com/AakarshitSriva3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
@@ -15,6 +18,7 @@
 </p>
 
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
+<a href="https://twitter.com/AakarshitSriva3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 📌 About Me
 - I am a motivated B.Tech Computer Engineering student with a strong interest in full-stack web development
@@ -25,7 +29,7 @@
 ## 🧠 My Focus Areas
 - Web Development
 - Full Stack Developer
-
+<a href="https://twitter.com/AakarshitSriva3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">

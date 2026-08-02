@@ -21,9 +21,7 @@
 <a href="https://twitter.com/AakarshitSriva3"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 📌 About Me
-- I am a motivated B.Tech Computer Engineering student with a strong interest in full-stack web development
-- and software engineering. I am passionate about learning new technologies, solving real-world problems,
-- and continuously improving my technical and communication skills.
+I am a passionate **Full Stack Developer** with a strong interest in **Generative AI** and modern web technologies. I enjoy building scalable, user-friendly applications and developing AI-powered solutions that solve real-world problems. My expertise includes React.js, Node.js, Express.js, Java, Spring Boot, Python, MongoDB, SQL, and REST APIs, along with experience integrating Large Language Models (LLMs), RAG, and AI APIs. I am committed to writing clean, maintainable code, continuously learning new technologies, and contributing effectively to innovative software development teams.
 
 
 ## 🧠 My Focus Areas
